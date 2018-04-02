@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Marvel Heores</string>
+    <string name="something_wrong_text">Something went wrong</string>
+    <string name="something_wrong_retry">Try Again</string>
+    <string name="comics_title">Comics</string>
+    <string name="series_title">Series</string>
+</resources>
